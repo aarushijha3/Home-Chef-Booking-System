@@ -1,0 +1,90 @@
+
+
+.menu-edit-container {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #f8f8f8;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  font-family: Arial, sans-serif;
+}
+
+.menu-edit-container h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.chef-form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin-bottom: 30px;
+  justify-content: space-between;
+}
+
+.chef-form input {
+  flex: 1 1 45%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.chef-form button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  flex: 1 1 100%;
+  margin-top: 10px;
+}
+
+.chef-form button:hover {
+  background-color: #0056b3;
+}
+
+.chef-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.chef-table th,
+.chef-table td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: left;
+}
+
+.chef-table th {
+  background-color: #007bff;
+  color: white;
+}
+
+.chef-table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.chef-table button {
+  margin-right: 5px;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.chef-table button:hover {
+  opacity: 0.8;
+}
+
+.chef-table button:first-of-type {
+  background-color: #ffc107; 
+  color: #333;
+}
+
+.chef-table button:last-of-type {
+  background-color: #dc3545; 
+  color: white;
+}

@@ -1,0 +1,56 @@
+
+
+.billing-container {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.billing-header {
+  text-align: center;
+  font-size: 28px;
+  margin-bottom: 20px;
+  color: #2c3e50;
+}
+
+.billing-card {
+  background: #f8f9fa;
+  border: 1px solid #dcdcdc;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 20px;
+  transition: transform 0.3s ease;
+}
+
+.billing-card:hover {
+  transform: scale(1.02);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.billing-card h3 {
+  margin-bottom: 10px;
+  color: #1e272e;
+}
+
+.billing-details p {
+  margin: 4px 0;
+  color: #34495e;
+}
+
+.total-spent {
+  text-align: right;
+  font-size: 20px;
+  font-weight: bold;
+  color: #27ae60;
+  margin-top: 20px;
+  border-top: 2px solid #ccc;
+  padding-top: 10px;
+}
+
+.no-billings {
+  text-align: center;
+  font-size: 18px;
+  color: #999;
+  margin-top: 50px;
+}

@@ -1,0 +1,58 @@
+.about-page {
+  padding: 60px 20px;
+  background-color: #f9f9f9;
+  min-height: 100vh;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+}
+
+.about-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  background-color: #ffffff;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
+}
+
+.about-container h1 {
+  font-size: 32px;
+  margin-bottom: 20px;
+  color: #007bff;
+  text-align: center;
+}
+
+.about-container p {
+  font-size: 17px;
+  line-height: 1.8;
+  margin-bottom: 16px;
+}
+
+.about-image {
+  display: block;
+  margin: 30px auto;
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+/* Optional: Team or mission section */
+.about-section {
+  margin-top: 40px;
+}
+
+.about-section h2 {
+  font-size: 24px;
+  color: #444;
+  margin-bottom: 12px;
+}
+
+.about-section ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.about-section ul li {
+  margin-bottom: 10px;
+  font-size: 16px;
+}

@@ -1,0 +1,77 @@
+/* Full-page centered layout */
+.register-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(to right, #fdfbfb, #ebedee);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Card wrapper */
+.register-card {
+  background-color: #ffffff;
+  padding: 40px;
+  border-radius: 16px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  width: 350px;
+  max-width: 90%;
+  text-align: center;
+}
+
+/* Heading */
+.register-card h2 {
+  margin-bottom: 24px;
+  font-size: 28px;
+  color: #333333;
+}
+
+/* Input styling */
+.register-card input[type="text"],
+.register-card input[type="email"],
+.register-card input[type="password"] {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 16px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 15px;
+  transition: border-color 0.3s ease;
+}
+
+.register-card input:focus {
+  border-color: #28a745;
+  outline: none;
+}
+
+/* Submit button */
+.register-card button {
+  width: 100%;
+  padding: 12px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.register-card button:hover {
+  background-color: #218838;
+}
+
+/* Feedback messages */
+.register-card p {
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.register-card p.error {
+  color: red;
+}
+
+.register-card p.success {
+  color: green;
+}
