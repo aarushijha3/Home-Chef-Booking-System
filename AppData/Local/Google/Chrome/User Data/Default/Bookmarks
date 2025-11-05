@@ -1,0 +1,100 @@
+{
+   "checksum": "3a5ff06269451e8b03baee4acffcf267",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13300044364286919",
+            "date_last_used": "13406796886958886",
+            "guid": "af1d69e4-a76c-49fe-8d2c-140dcdb367c2",
+            "id": "5",
+            "name": "linkedin",
+            "type": "url",
+            "url": "https://www.linkedin.com/feed/"
+         }, {
+            "date_added": "13392067992233127",
+            "date_last_used": "13406796590626231",
+            "guid": "2ba5f624-1be6-4b76-8045-210633e7871d",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ChatGPT",
+            "type": "url",
+            "url": "https://chatgpt.com/"
+         }, {
+            "date_added": "13399109257388803",
+            "date_last_used": "13406795732915770",
+            "guid": "3ed42b43-929c-405f-ad62-f3296d512d7a",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13399816652518156",
+            "date_last_used": "0",
+            "guid": "40cea91a-7999-415e-a330-f3b45d7885e4",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "MongoDb Atlas",
+            "type": "url",
+            "url": "https://cloud.mongodb.com/v2/6898909c2bf6a96cd94ff261#/metrics/replicaSet/6898920c6d66c368d59a0def/explorer/oneCart/users/find"
+         }, {
+            "date_added": "13404542959573893",
+            "date_last_used": "13406616712845397",
+            "guid": "b148ef88-a213-40e2-9c1c-8970050658b0",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Java Exceptions (Try...Catch)",
+            "type": "url",
+            "url": "https://www.w3schools.com/java/java_try_catch.asp"
+         }, {
+            "date_added": "13406531546265227",
+            "date_last_used": "0",
+            "guid": "574972c9-bc48-49ec-b04c-aa7a85f4d0a8",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": " National Centre for Good Governance, Government of Indi",
+            "type": "url",
+            "url": "https://www.ncgg.org.in/training/"
+         } ],
+         "date_added": "13403031517085495",
+         "date_last_used": "0",
+         "date_modified": "13406531546265227",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13403031517085495",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13403031517085495",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CnAKUAiIgQISSiAAkgE2CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCbUh5rHSQgYAEbUh5rHSQgYAKXGj6LHSQgYA6gEMCPvQq8gGEIDmvtoBEgAqGGFEMkxDNGtLNm1pMFJsZTlpWWYvOXc9PUgDEu8BCAgS6gEKHG5HakllTGZRTWc2OU4vT2E0bTZjeXBGQkhLZz0SZlo6QURxdEFaeEN1UDYxaVV0M3o5UWxDZy9EZEJVdUJ5K2RFRktnQ3RiYm5SMitYMEQyajk5RW16TjNIMEhuSmtHcWJRSG1BSGR6VnhBSFlGMFR6SEpSQS9HVWF4Zy9ndEFBblE9PRgAIAAoADCPmveU4KOPAzjmveWUizNA5r3llIszShw2L2VZeUh2QTFDT2xoR0xxd0Q1Y0I4QU1FQkk9WiIiIP///+5FQk81dmdmdVd5MGN3RzdTNE94R1M2R2lMakU9ZZhe8PkS7wEIBxLqAQocTWs5U0owbHRFaWxCTDREVEY5R0RkdjJxMkk4PRJmWjpBRHF0QVp4Q3VQNjFpVXQzejlRbENnL0RkQlV1NXN0SUtaazgxbDdmUEdYZlVoVTlDS3BNSkhwKzFadGpCMzJwQnpyQ2JnT25XK2dBb3Z5WlliMGY0eFF4QWlJYTdLdkZjQT09GAAgACgAMLvOqoyVjI8DOK3BvcOIM0Ctwb3DiDNKHFlNYitTZG1ZeHRISHl1enNLUXZGVE5kc3JSQT1aIiIg////3TFaTmxzT3Q4ai9XdGgvSTRjSnlaU0N4WFZkQT1lhWftDxLvAQgGEuoBChwxSTc5VTRUWGNvbXJXdldOeVFpdEhBbXE2SEU9EmZaOkFEcXRBWnhDdVA2MWlVdDN6OVFsQ2cvRGRCVXVuK05ra1hEOEZZOUtEaFZmNy9uY0dTLzY0N1ZGNDhEU3BoaHc5UnVaUENyaW0zTWJJb3BPdHpkbit1Ry9FZGxrTjRWR0JBPT0YACACKAIw6siTxuf1jwM4qeX4pe4yQKmQ6qWYM0ocWWc2ZDJkRmVRWitKTTY0VE1QT0xNOU81UkhjPVoiIiD///+6b00rYlNocFVBdFpDVUovbDh5Wlh6WG5YRWgwPWX4kgPVEqsBCAESpgEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0STlo6QURxdEFaeml3d2QrVVY5cm5tMEZrTHZiVGljemRrbEFacTU1V2ZoMW11SUIya292WGpPelRqU3g2dS9ZcU12alFvT1U0eHUvek1JMxgAIAAoADCm1pT34uyPAzgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEu8BCAwS6gEKHEoxemRITzdKK1F6SStBTHZQR1kzbDhCalI1Zz0SZlo6QURxdEFaeEN1UDYxaVV0M3o5UWxDZy9EZEJVdVBheDlzN2Z6NkZkcGpRK0xrbzdnaTlnUzJwNTdzd3Mzd2tFYmM4U0VKOXhlamtjTm5iOERSRlVrRmRNOHAyL3VYOFJEaHc9PRgAIAMoAzDLxOK10dKQAziZidqWpDNAidHalqQzShxQWmxUSkd1d2F0OStLc0ExZ3RWUEp3MHBWM2c9WiIiIP////szdlEzdlpEOUsrbnlmUmJ4eTFVT2MxeFZLekU9ZWNy11oSwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp6MS9LZEpmWUxVdkEzL1RtRHVzYnA3ZVZab1NKbktPUWpHMXdrWFBQRWN1MHQrK3JTY1puSDR1UjFPZ1dvaUFkSFQ4SHVKbVJCRHF0dlZCZmNoemRyU2ViYXVpQT09GAAgACgAMKbWlPfi7I8DOABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAS7AEIBRLnAQocbWUwWXpNbXE5TVk3WkxiUmFXVjVmZEZaTjZnPRJmWjpBRHF0QVp4Q3VQNjFpVXQzejlRbENnL0RkQlV1MGErYVJ4cFFQZTZyT2x0L3BpQTJmS2lKeDJ6REVHeWRiNmQyYVY0eG1nYmt6ZVNQYkYzN0lIbmlwSVZvdWF5MXJhclh5QT09GAAgGCgYMIb80fCt2pADOP+j1L2XMECLzZ2VpTNKHDNkcTNhSGNOL01CR25iMzY1Tmc3VFlsUnoyRT1aHyId2Xhmc2M2OEZVWmc3U0YzalZOVStkQlVXaXRZcz1lPo2AuxLvAQgKEuoBChw4aTYyVEpZaE1XSHBiaGNQd21CMjEwYkFvUjg9EmZaOkFEcXRBWnhDdVA2MWlVdDN6OVFsQ2cvRGRCVXUzMEpwZ096RzRVOC9JbXA4WUs4eVdVbWJGanVyb1U3UlhFSlQzdlBYbnVOV2FJVkpXb1VyZERwVnJoZk1MOUw3MmVqeTdBPT0YACACKAIwu8OIqeGYkAM41q+84pwzQOavvOKcM0oceWtiS3ZCQ0dFRklhejFuVWNONzA4eVlVR3pnPVoiIiD////3M1l0SHNsSlBSM3Y4WjB5aG9nRmpBVlY2M3F3PWVAuCcCEsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFad01NSUJzekFpZldLc29ZalhHc2xQcDBCS2FDMytMMEx0ZUs5U3Ivb0xXeVAvWDBKSjdKeWF2ZjJRRll0NUIzMVM5Q0d5dS9HT2tIU3BjRjFHdTVsZUxncHQ0M0E9PRgAIAAoADCm1pT34uyPAzgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAMAE4AA==",
+   "version": 1
+}
